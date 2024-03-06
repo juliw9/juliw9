@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Julian Wirtz**, I am 23 years old and currently doing my Master in *Sustainable Management and Technology* at the EPFL in Lausanne.
+
+Next to my studies, I am active in an EPFL-UNIL student association called *Zero Emission Group*. With our more than 50 members, we **promote sustainability** on our campus, by raising awareness and realising concrete projects.
+
+Welcome to my Github :)
+
 <!--
 **juliw9/juliw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
